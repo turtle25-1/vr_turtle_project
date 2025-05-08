@@ -2028,6 +2028,17 @@
                 },
                 {
                     "name": "",
+                    "id": "c73abf3d-804b-45fc-8d3d-b56f0b6ea934",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Point",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "57909bb4-1088-4975-9227-ecc87a305257",
                     "path": "<Mouse>/leftButton",
                     "interactions": "",
